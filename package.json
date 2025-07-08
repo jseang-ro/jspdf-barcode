@@ -1,5 +1,5 @@
 {
-  "name": "jspdf-barcode",
+  "name": "jspdf-barcode-ro",
   "version": "1.0.2",
   "description": "barcode generator plugin for jspdf",
   "main": "dist/jspdf-barcode.js",
@@ -14,10 +14,10 @@
     "example": "npm run dev --workspace=example",
     "example-server-side": "npm run dev --workspace=example-server-side"
   },
-  "homepage": "https://github.com/castrix/jspdf-barcode#readme",
+  "homepage": "https://github.com/Rush-Order-Inc/jspdf-barcode#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/castrix/jspdf-barcode"
+    "url": "https://github.com/Rush-Order-Inc/jspdf-barcode"
   },
   "keywords": [
     "jspdf",

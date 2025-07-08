@@ -45,7 +45,7 @@ const generateBarcode = (
   doc.setTextColor(options.textColor || "#000000");
   doc.setFontSize(options.fontSize || 112);
   doc.text(
-    `${encodeCode128(barcodeValue, options.variant)}`, // encode the barcode value
+    `${encodeCode128(barcodeValue)}`,
     Number(options.x),
     Number(options.y),
     options.textOptions
